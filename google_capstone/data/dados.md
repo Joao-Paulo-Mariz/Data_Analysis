@@ -1,1 +1,1 @@
-Por causa da limitação dearquivos em 25 mb não poderei disponibilizar os dados aqui, mas você poderá acessar aqui <https://www.kaggle.com/datasets/yuliuschandragunawan/divvy-chicago-bikesharing-data>
+Devido à limitação de arquivos em 25 MB não poderei disponibilizar os dados aqui, mas você poderá acessar neste link <https://www.kaggle.com/datasets/yuliuschandragunawan/divvy-chicago-bikesharing-data>
