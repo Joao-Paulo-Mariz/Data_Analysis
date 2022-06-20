@@ -6,5 +6,5 @@ Olá! Bem-vindo ao meu portfólio, me chamo João Paulo e tenho interesse em ini
 [Análise RFM com algoritmo K-MEANS:](https://github.com/Joao-Paulo-Mariz/Data_Analysis/tree/main/RFM) Segmentação de clientes de acordo com seus padrões de consumo utilizando análise RFM com algoritmo K-MEANS.   
 
 **E estou desenvolvendo estes:**     
-Análise exploratória com SQL e Python    
-Análise de dados com PySpark    
+Análise de feature importance com Machine Learning     
+Regressão Linear com PySpark
