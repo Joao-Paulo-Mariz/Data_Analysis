@@ -3,8 +3,5 @@ Olá! Bem-vindo ao meu portfólio, me chamo João Paulo e tenho interesse em ini
     
 **Meu portfólio ainda está em construção, mas no momento tenho esses projetos:**     
 [Google Data Analytics Capstone Project com Python:](https://github.com/Joao-Paulo-Mariz/Data_Analysis/tree/main/google_capstone) Análise de padrões com categorias de consumidores visando auxiliar a conversão de clientes casuais em membros;       
-[Análise RFM com algoritmo K-MEANS:](https://nbviewer.org/github/Joao-Paulo-Mariz/Data_Analysis/blob/main/RFM/rfm.ipynb) Segmentação de clientes de acordo com seus padrões de consumo utilizando análise RFM com algoritmo K-MEANS.   
-
-**E estou desenvolvendo estes:**     
-Classificação de dados bancários com Catboost e Random Forest
-Regressão Linear com PySpark
+[Análise RFM com algoritmo K-MEANS:](https://nbviewer.org/github/Joao-Paulo-Mariz/Data_Analysis/blob/main/RFM/rfm.ipynb) Segmentação de clientes de acordo com seus padrões de consumo utilizando análise RFM com algoritmo K-MEANS.     
+Análise exploratória de dados sobre compartilhamento de bicicletas em Londres: O projeto consiste na preparação dos dados com engenharia de atributos, tratamneto de outliers e posteriomente análise de dados sobre o serviço de compartilhamento de bicicletas em Londres.
